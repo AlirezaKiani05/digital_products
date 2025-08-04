@@ -1,7 +1,10 @@
 env/
 .idea/
 media/
+
 **/__pycache__/
 *.pyc
+
+locla_settings.py
 db.sqlite3
 .vscode/

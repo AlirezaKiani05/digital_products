@@ -1,0 +1,9 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python-envs.pythonProjects": [],
+    "python.defaultInterpreterPath": "C:/Users/alireza/Desktop/digital_products/env/Scripts/python.exe",
+    
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    
+}
